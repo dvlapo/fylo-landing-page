@@ -397,4 +397,7 @@ ion-icon {
           display: grid;
           grid-template-columns: 40px auto;
      }
+     .attribution-foot { 
+          margin-top: -18px;
+     }
 }
